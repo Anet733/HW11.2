@@ -12,3 +12,6 @@ def upper_first_letters(string):
     b = string.title()
     return b
 
+def everything_will_be_fine():
+    return "You are incredible"
+
